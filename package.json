@@ -1,0 +1,31 @@
+{
+  "name": "saltybot",
+  "version": "0.1.0",
+  "private": true,
+  "author": "The Salt Mines <311@saltmines.us>",
+  "description": "I do thing",
+  "dependencies": {
+    "hubot": "^2.13.1",
+    "hubot-darksky": "^1.0.2",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.1.5",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-maps": "0.0.2",
+    "hubot-nowplaying": "thesaltmines/hubot-nowplaying",
+    "hubot-otterme": "amsoell/hubot-otterme",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-schedule": "amsoell/hubot-schedule",
+    "hubot-scripts": "^2.16.1",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^3.3.0",
+    "hubot-thank-you": "0.0.3",
+    "xml2js": "0.4.9"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
