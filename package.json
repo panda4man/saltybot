@@ -13,6 +13,7 @@
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
+    "hubot-ikr": "0.0.3",
     "hubot-maps": "0.0.2",
     "hubot-nowplaying": "thesaltmines/hubot-nowplaying",
     "hubot-otterme": "amsoell/hubot-otterme",
